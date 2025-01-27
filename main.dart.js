@@ -68802,7 +68802,7 @@ $S:0}
 A.HD.prototype={
 oW(){var s=0,r=A.R(t.H),q
 var $async$oW=A.S(function(a,b){if(a===1)return A.O(b,r)
-while(true)switch(s){case 0:q=A.fU("https://github.com/Farizaaaa/resume/blob/main/Fariza_A_A%20(2).pdf",0,null)
+while(true)switch(s){case 0:q=A.fU("https://github.com/Farizaaaa/resume/blob/main/Fariza_A_A.pdf",0,null)
 s=5
 return A.U(A.QZ(q),$async$oW)
 case 5:s=b?2:4
